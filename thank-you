@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=640">
+
+    <link rel="stylesheet" href="stylesheets/core.css" media="screen">
+    <link rel="stylesheet" href="stylesheets/mobile.css" media="handheld, only screen and (max-device-width:640px)">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+
+    <script type="text/javascript" src="javascripts/modernizr.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="javascripts/headsmart.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        $('#main_content').headsmart()
+      })
+    </script>
+    <title>Principles-for-success by rachidien</title>
+  </head>
+
+  <body>
+    <div class="shell">
+
+      <header>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <h1>Principles-for-success</h1>
+            <h2>15 Principles for Success - Be a Successful Freelance Writer</h2>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+      </header>
+
+      <section id="downloads">
+        <span class="inner">
+        
+        </span>
+      </section>
+
+
+      <span class="banner-fix"></span>
+
+
+      <section id="main_content">
+        <p class="centering">Get this FREE Guide</p>
+
+<h1>
+<a id="15-principles-for-success" class="anchor" href="#15-principles-for-success" aria-hidden="true"><span class="octicon octicon-link"></span></a>15 Principles for Success</h1>
+
+<h2>
+<a id="be-a-successful-freelance-writer" class="anchor" href="#be-a-successful-freelance-writer" aria-hidden="true"><span class="octicon octicon-link"></span></a>Be a Successful Freelance Writer</h2>
+
+<blockquote>
+<p>This guide will give You the most important principles for successful freelance writers into fifteen actionable nuggets.</p>
+
+<p>If you absorb and apply the following principles then you will be giving yourself the best possible chance of succeeding as a freelance writer</p>
+</blockquote>
+
+<hr>
+
+<p>Enter your email address NOW!</p>
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+
+<div id="mc_embed_signup">
+<form action="//blogspot.us7.list-manage.com/subscribe/post?u=6d88fb4de5b07fd48c6fc102f&amp;id=ac1850b405" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6d88fb4de5b07fd48c6fc102f_ac1850b405" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="I am In !" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+      </section>
+
+      <footer>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <p>Brought to you by <a href="http://it-n-careerz.blogspot.com/">IT News and Career Tips</a> All Rights reserved &copy;.</p>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+        <span class="octocat"></span>
+      </footer>
+
+    </div>
+
+  <script type="text/javascript"> 
+  var _racb = _racb || []; 
+  _racb.push(["c", 618]); 
+  _racb.push(["cc", "jhHp28NLFUG0bfMViotKy13847"]); 
+  _racb.push(["t", 1]); 
+  (function() { 
+    var rac = document.createElement("script"); rac.type = "text/javascript"; rac.async = true; 
+    rac.src = ("https:" == document.location.protocol ? "https://" : "http://") + "referraladmin.com/js/racb.js"; 
+    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(rac, s); 
+  })(); 
+</script> 
+  
+  </body>
+</html>
